@@ -1,50 +1,58 @@
-# Felipe Paraizo de Oliveira  
-### CTO & Full Stack Engineer
+<div align="right">
+  <sub><a href="./README-PT.md">🇧🇷 Português</a></sub>
+</div>
 
-Driving technology as a growth engine at **Grupo Veronez**, building scalable systems and high-performance applications.
+# Felipe Paraizo  
+### Full Stack, Mobile & AI Engineer
 
-🌐 [Portfolio](https://felipeparaizo.com.br) • 🏢 [Grupo Veronez](https://grupoveronez.com.br) • 💼 [LinkedIn](https://www.linkedin.com/in/felipeparaizo/)
+Driving technology as a growth engine at **Grupo Veronez**, building scalable systems, mobile products, and AI-driven applications.
 
----
-
-## 🚀 About
-
-As **CTO at Grupo Veronez**, I lead the design and execution of technology strategies focused on scalability, performance, and business growth.
-
-My work sits at the intersection of:
-- **Software Architecture** — designing robust and scalable systems  
-- **Product Engineering** — turning ideas into reliable digital products  
-- **Technical Leadership** — aligning technology with business objectives  
-
----
-
-## 💻 Tech Stack
-
-TypeScript • React • Next.js • Node.js • Laravel • Flutter • PostgreSQL • Docker
-
----
-
-## 🧠 What I Focus On
-
-- Scalable system architecture  
-- High-performance web and mobile applications  
-- API design and integrations  
-- Cloud-ready and containerized environments  
-- Turning business problems into technical solutions  
-
----
-
-## 📧 Contact
-
-Open to strategic partnerships, product development, and technology leadership opportunities.
-
-[![Gmail](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail)](mailto:fparaizo3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipeparaizo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome)](https://felipeparaizo.com.br)
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
-  — Cory House
+<p>
+  <a href="https://felipeparaizo.com.br">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipeparaizo/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fparaizo3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+---
+
+<table>
+  <tr>
+    <td width="240" align="center" valign="middle">
+      <img src="./assets/magnojet-iphone-mockup.gif" width="210" alt="Magnojet iOS App Preview" />
+    </td>
+    <td valign="middle">
+      <h3>
+        📱 Magnojet Application
+        &nbsp;
+        <img src="https://img.shields.io/badge/Production-v1.9.0-111111?style=flat-square&logo=statuspage&logoColor=10B981" alt="Production v1.9.0" />
+      </h3>
+      <p>
+        Official mobile platform developed for <strong>Magnojet</strong> to assist agricultural consultants and producers in selecting spray tips, calculating field application parameters, and monitoring real-time weather conditions globally.
+      </p>
+      <p>
+        <a href="https://apps.apple.com/br/app/magnojet/id6789639167">
+          <img src="https://img.shields.io/badge/App_Store-111111?style=flat-square&logo=apple&logoColor=white" alt="App Store" />
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=br.com.magnojet.app">
+          <img src="https://img.shields.io/badge/Google_Play-111111?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+        </a>
+      </p>
+      <details>
+        <summary><sub><b>Technical Architecture & Specs</b></sub></summary>
+        <br />
+        <sub>
+          • <b>Smart Selection & Calculation Engine:</b> Precision nozzle recommendation, flow rate, application rate, and droplet spectrum modeling<br />
+          • <b>Live Agro-Meteorology:</b> Geolocation & real-time microclimate telemetry for spray drift risk analysis<br />
+          • <b>Multi-Region Engine:</b> Native <code>EN</code>, <code>PT-BR</code>, and <code>ES</code> localization with Metric & US Imperial unit conversion<br />
+          • <b>Cross-Platform Native:</b> Built with Flutter, Dart, Swift, and Kotlin
+        </sub>
+      </details>
+    </td>
+  </tr>
+</table>
