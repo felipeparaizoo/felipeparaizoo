@@ -1,5 +1,5 @@
 <div align="right">
-  <sub><a href="./README.md">🇺🇸 English</a></sub>
+  <sub><a href="./README.md">🇺🇸 EN</a> &nbsp;•&nbsp; <b>🇧🇷 PT</b> &nbsp;•&nbsp; <a href="./README-ES.md">🇪🇸 ES</a></sub>
 </div>
 
 # Felipe Paraizo  
@@ -15,7 +15,7 @@ Liderando tecnologia como motor de crescimento, construindo sistemas escaláveis
 
 <table>
   <tr>
-    <td width="240" align="center" valign="middle">
+    <td width="260" align="center" valign="middle">
       <img src="./assets/magnojet-iphone-mockup.gif" width="210" alt="Magnojet iOS App Preview" />
     </td>
     <td valign="middle">
@@ -35,6 +35,29 @@ Liderando tecnologia como motor de crescimento, construindo sistemas escaláveis
           • <b>Telemetria Agro-Climática:</b> Geolocalização e análise microclimática em tempo real para prevenção de deriva<br />
           • <b>Motor Multi-Região:</b> Suporte nativo a <code>PT-BR</code>, <code>EN</code> e <code>ES</code> com conversão entre unidades Métricas e Imperiais (EUA)<br />
           • <b>Multiplataforma Nativo:</b> Desenvolvido com Flutter, Dart, Swift e Kotlin
+        </sub>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <a href="https://luyma.com.co"><img src="./assets/luyma-macbook-mockup.gif" width="250" alt="Luyma Web Platform Preview" /></a>
+    </td>
+    <td valign="middle">
+      <h3>💻 Luyma S.A. &nbsp;<img src="https://img.shields.io/badge/Status-Em%20Produ%C3%A7%C3%A3o-111111?style=flat-square&logo=statuspage&logoColor=10B981" alt="Em Produção" /></h3>
+      <p>
+        Plataforma web oficial desenvolvida para a <strong>Luyma</strong> na Colômbia, apresentando maquinário pesado agrícola e de construção com catálogo dinâmico de produtos, ecossistema de marcas e painel administrativo (CMS) próprio.
+      </p>
+      <p>
+        <a href="https://luyma.com.co"><img src="https://img.shields.io/badge/Acessar%20Site-luyma.com.co-111111?style=flat-square&logo=safari&logoColor=white" alt="Acessar luyma.com.co" /></a>
+      </p>
+      <details>
+        <summary><sub><b>Arquitetura Técnica & Especificações</b></sub></summary>
+        <br />
+        <sub>
+          • <b>Arquitetura Web Moderna:</b> Plataforma SSR construída com Next.js (App Router), React 19 e TypeScript<br />
+          • <b>CMS Administrativo & Catálogo Dinâmico:</b> Gestão completa de tratores, implementos, equipamentos de construção e mídia<br />
+          • <b>Performance & SEO:</b> Design system responsivo em Tailwind CSS otimizado para carregamento rápido e conversão comercial
         </sub>
       </details>
     </td>
