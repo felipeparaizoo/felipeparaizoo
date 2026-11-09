@@ -5,7 +5,7 @@
 # Felipe Paraizo  
 ### Full Stack, Mobile & AI Engineer
 
-Driving technology as a growth engine at **Grupo Veronez**, building scalable systems, mobile products, and AI-driven applications.
+Driving technology as a growth engine, building scalable systems, mobile products, and AI-driven applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white)](https://felipeparaizo.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeparaizo/)
