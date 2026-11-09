@@ -1,5 +1,5 @@
 <div align="right">
-  <sub><a href="./README-PT.md">🇧🇷 Português</a></sub>
+  <sub><b>🇺🇸 EN</b> &nbsp;•&nbsp; <a href="./README-PT.md">🇧🇷 PT</a> &nbsp;•&nbsp; <a href="./README-ES.md">🇪🇸 ES</a></sub>
 </div>
 
 # Felipe Paraizo  
@@ -15,7 +15,7 @@ Driving technology as a growth engine, building scalable systems, mobile product
 
 <table>
   <tr>
-    <td width="240" align="center" valign="middle">
+    <td width="260" align="center" valign="middle">
       <img src="./assets/magnojet-iphone-mockup.gif" width="210" alt="Magnojet iOS App Preview" />
     </td>
     <td valign="middle">
@@ -35,6 +35,29 @@ Driving technology as a growth engine, building scalable systems, mobile product
           • <b>Live Agro-Meteorology:</b> Geolocation & real-time microclimate telemetry for spray drift risk analysis<br />
           • <b>Multi-Region Engine:</b> Native <code>EN</code>, <code>PT-BR</code>, and <code>ES</code> localization with Metric & US Imperial unit conversion<br />
           • <b>Cross-Platform Native:</b> Built with Flutter, Dart, Swift, and Kotlin
+        </sub>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <a href="https://luyma.com.co"><img src="./assets/luyma-macbook-mockup.gif" width="250" alt="Luyma Web Platform Preview" /></a>
+    </td>
+    <td valign="middle">
+      <h3>💻 Luyma S.A. &nbsp;<img src="https://img.shields.io/badge/Status-Live%20in%20Production-111111?style=flat-square&logo=statuspage&logoColor=10B981" alt="Live in Production" /></h3>
+      <p>
+        Official web platform developed for <strong>Luyma</strong> in Colombia, showcasing heavy agricultural and construction machinery with a dynamic product catalog, brand ecosystem, and custom administrative CMS.
+      </p>
+      <p>
+        <a href="https://luyma.com.co"><img src="https://img.shields.io/badge/Visit%20Website-luyma.com.co-111111?style=flat-square&logo=safari&logoColor=white" alt="Visit luyma.com.co" /></a>
+      </p>
+      <details>
+        <summary><sub><b>Technical Architecture & Specs</b></sub></summary>
+        <br />
+        <sub>
+          • <b>Modern Web Architecture:</b> Server-rendered platform built with Next.js (App Router), React 19, and TypeScript<br />
+          • <b>Custom Admin & Catalog Engine:</b> Dynamic management of tractors, implements, construction equipment, and multimedia hero sections<br />
+          • <b>Performance & SEO Optimized:</b> Responsive Tailwind CSS design system engineered for fast load times and lead conversion
         </sub>
       </details>
     </td>
