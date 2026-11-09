@@ -8,7 +8,7 @@
 Driving technology as a growth engine, building scalable systems, mobile products, and AI-driven applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white)](https://felipeparaizo.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeparaizo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/felipeparaizo/)
 [![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:fparaizo3@gmail.com)
 
 ---
@@ -19,7 +19,7 @@ Driving technology as a growth engine, building scalable systems, mobile product
       <img src="./assets/magnojet-iphone-mockup.gif" width="210" alt="Magnojet iOS App Preview" />
     </td>
     <td valign="middle">
-      <h3>📱 Magnojet Application &nbsp;<img src="https://img.shields.io/badge/Production-v1.9.0-111111?style=flat-square&logo=statuspage&logoColor=10B981" alt="Production v1.9.0" /></h3>
+      <h3>📱 Magnojet Application &nbsp;<img src="https://img.shields.io/badge/Status-Live%20in%20Production-111111?style=flat-square&logo=statuspage&logoColor=10B981" alt="Live in Production" /></h3>
       <p>
         Official mobile platform developed for <strong>Magnojet</strong> to assist agricultural consultants and producers in selecting spray tips, calculating field application parameters, and monitoring real-time weather conditions globally.
       </p>
